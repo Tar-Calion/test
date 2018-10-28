@@ -1,4 +1,4 @@
-detached state
+detached state  --  not
 freischwebend im dunklen Cosmos.
 diese Zeile wird angepasst
 und diese auch
